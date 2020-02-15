@@ -12,9 +12,10 @@ there are six kinds of cards:
 
 the frequencies are:
 * pools, bis, temps: 3, 4, 6, 7, 8, 9, 10, 12, 13
+* fences: 1, 2, 3, 5, 5, 6, 6, 7, 8, 8, 9, 10, 10, 11, 11, 13, 14, 15
 * parks, markets: 1, 2, 4, 5, 5, 6, 7, 7, 8, 8, 9, 9, 10, 11, 11, 12, 14, 15
-* fences: 1, 2, 3, 5, 5, 6, 6, 7, 8, 8, 9, 10, 10, 11, 13, 14, 15
 
 ## directions:
 * divide set of randomized cards into three sets of 27 cards
 * reveal three cards
+* output the current number and the previous card back/type
